@@ -1,7 +1,7 @@
 # Bayesian_Agrivoltaic_Dairy_Calf
-Data and Bayesian analysis of agrivoltaics installations
+Data and hierarchical Bayesian statistical analysis of dairy-calves agrivoltaics
 
-Data and Bayesian analysis of Agrivoltaics for Dairy Calves. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19171042.svg)](https://doi.org/10.5281/zenodo.19171042)
+Data and Bayesian analysis of Agrivoltaics for Dairy Calves. [![DOI](https://zenodo.org/badge/1426915936.svg)](https://doi.org/10.5281/zenodo.23499744)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
