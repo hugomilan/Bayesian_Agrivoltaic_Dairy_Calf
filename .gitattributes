@@ -1,0 +1,4 @@
+out/brms/brix.mi.m1.posterior.rds filter=lfs diff=lfs merge=lfs -text
+out/brms/weight.m6.posterior.rds filter=lfs diff=lfs merge=lfs -text
+out/brms/health.brix.m1.posterior.rds filter=lfs diff=lfs merge=lfs -text
+out/brms/health.m3.posterior.rds filter=lfs diff=lfs merge=lfs -text
