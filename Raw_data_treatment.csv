@@ -1,0 +1,393 @@
+"date","sickness","treatment","days_of_treatment","place","name"
+2025-03-29,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",21
+2025-03-29,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",15
+2025-03-29,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",36
+2025-03-29,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",57
+2025-03-29,"Tick fever","D-500 + Terramycin","(1-2-3)-4-5","agrivoltaics",60
+2025-03-29,"Omphalitis","Terramycin","(1)-2-3-4-5","agrivoltaics",43
+2025-03-29,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","elevated_pen",58
+2025-03-30,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",45
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","elevated_pen",61
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","elevated_pen",39
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",40
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",26
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",64
+2025-03-31,"Fever and Omphalitis","D-500 + Terramycin","(1)-2-3-4-5","agrivoltaics",44
+2025-03-31,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",19
+2025-04-02,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",23
+2025-04-02,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",24
+2025-04-03,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",49
+2025-04-04,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",62
+2025-04-05,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",28
+2025-04-06,"Conjunctivitis","Izoot B12 + Terramycin","(1)-2-3-4-5","weaning",14
+2025-04-06,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",75
+2025-04-06,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",37
+2025-04-05,"Tick fever","Valle Fluids and Calcium + Izoot B12","(1)-2-3-4-5","weaning",NA
+2025-04-06,"Conjunctivitis","Izoot B12 + Terramycin + Terracam","(1-2)-3-4-5",NA,13
+2025-04-08,"Diarrhea","Terramycin","(1)-2-3-4-5",NA,22
+2025-04-09,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",22
+2025-04-09,"Diarrhea","Banamine + Kinetomax","(1-2-3)-4-5","agrivoltaics",33
+2025-04-10,"Omphalitis","Kinetomax","(1-2-3)-4-5","agrivoltaics",90
+2025-04-10,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","elevated_pen",69
+2025-04-10,"Diarrhea","Kinetomax","(1-2-3)-4-5","agrivoltaics",72
+2025-04-10,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",25
+2025-04-11,NA,"Kinetomax","(1)-2-3-4-5","agrivoltaics",NA
+2025-04-11,"Pneumonia","Cef-50 + Aliv","(1-2-3)-4-5","weaning",26
+2025-04-16,"Diarrhea","Cef-50","(1)-2-3-4-5","agrivoltaics",48
+2025-04-16,"Fever","D-500","(1-2-3-4)-5","agrivoltaics",79
+2025-04-18,"Diarrhea","Farmacox + Acura Max","(1)-2-3-4-5","agrivoltaics",80
+2025-04-18,"Diarrhea","Acura Max","(1)-2-3-4-5","agrivoltaics",31
+2025-04-20,"Omphalitis","Flunixin","(1)-2-3-4-5","agrivoltaics",101
+2025-04-20,"Diarrhea","Farmacox + Acura Max","(1)-2-3-4-5","elevated_pen",72
+2025-04-20,"Diarrhea","Farmacox + Acura Max","(1)-2-3-4-5","agrivoltaics",48
+2025-04-22,"Diarrhea","Farmacox + Acura Max","(1)-2-3-4-5","agrivoltaics",50
+2025-04-22,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",23
+2025-04-22,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",NA
+2025-04-24,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5",NA,105
+2025-04-25,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5",NA,59
+2025-04-26,"Pneumonia","Kinetomax + D-500 + Aliv","(1-2-3)-4-5","agrivoltaics",49
+2025-04-26,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",71
+2025-04-26,"Diarrhea","Alta Lyte Fluids","(1)-2-3-4-5","agrivoltaics",84
+2025-04-26,"Diarrhea","Alta Lyte Fluids","(1)-2-3-4-5","agrivoltaics",31
+2025-04-26,"Diarrhea","Alta Lyte Fluids","(1)-2-3-4-5","agrivoltaics",72
+2025-04-26,"Diarrhea","Alta Lyte Fluids","(1)-2-3-4-5","agrivoltaics",33
+2025-04-26,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",64
+2025-04-26,"Omphalitis","Terramycin","(1)-2-3-4-5","elevated_pen",101
+2025-04-26,"Omphalitis","Terramycin","(1)-2-3-4-5","elevated_pen",105
+2025-04-27,"Omphalitis","Terramycin","(1)-2-3-4-5","agrivoltaics",90
+2025-04-27,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",80
+2025-04-27,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",26
+2025-04-27,"Diarrhea","Cef-50 + Flunixin","(1-2-3)-4-5","agrivoltaics",72
+2025-04-28,"Tick fever","Catafos B12","(1)-2-3-4-5",NA,39
+2025-04-28,"Pneumonia","Kinetomax + Aliv","(1-2-3)-4-5","agrivoltaics",39
+2025-04-30,"Omphalitis","D-500 + Terramycin","(1)-2-3-4-5","elevated_pen",113
+2025-05-02,"Diarrhea","Terramycin","1","agrivoltaics",105
+2025-05-02,"Fever","Cef-50","1",NA,71
+2025-05-02,"Diarrhea","Cef-50 + Terramycin","1","agrivoltaics",12
+2025-05-02,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",33
+2025-05-03,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",25
+2025-05-04,"Diarrhea","Terramycin","1","agrivoltaics",100
+2025-05-18,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",52
+2025-05-20,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",31
+2025-05-21,"Fever","D-500","1","elevated_pen",110
+2025-05-22,"Diarrhea","Terracortril + Terramycin","1","agrivoltaics",72
+2025-05-23,"Pneumonia","Kinetomax + Aliv","3","elevated_pen",124
+2025-05-23,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",72
+2025-05-25,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",62
+2025-05-25,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",20
+2025-05-25,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",84
+2025-05-25,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",26
+2025-05-26,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",71
+2025-05-26,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",83
+2025-05-27,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",25
+2025-05-27,"Diarrhea","Acura Max","1","agrivoltaics",84
+2025-05-27,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",44
+2025-05-27,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",51
+2025-05-28,"Diarrhea","Terramycin","1","agrivoltaics",83
+2025-05-29,"Pneumonia","Kinetomax + Aliv","2","agrivoltaics",43
+2025-05-29,"Diarrhea","Cef-50 + Terramycin","1","agrivoltaics",84
+2025-05-29,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",33
+2025-05-29,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",77
+2025-05-29,"Diarrhea","Cef-50 + Terramycin","1","agrivoltaics",51
+2025-05-29,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",61
+2025-05-29,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",99
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",98
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",46
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",52
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",73
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",37
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",88
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",63
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",31
+2025-05-30,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",30
+2025-06-04,"Diarrhea","Acura Max","1","agrivoltaics",102
+2025-06-06,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",129
+2025-06-06,"Omphalitis","Terramycin","1","agrivoltaics",122
+2025-06-10,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",124
+2025-06-10,"Pneumonia","Kinetomax + Aliv","3","elevated_pen",128
+2025-06-16,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",56
+2025-06-16,"Diarrhea","Farmacox + Acura Max","1","agrivoltaics",92
+2025-06-17,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",62
+2025-06-17,"Conjunctivitis","Terramycin","1","agrivoltaics",39
+2025-06-18,"Conjunctivitis","Terracortril + Terramycin","1","agrivoltaics",115
+2025-06-19,"Diarrhea","Farmacox + Acura Max","1","agrivoltaics",109
+2025-06-20,"Conjunctivitis","Terramycin Ointment","1","agrivoltaics",81
+2025-06-23,"Omphalitis","Terramycin","1","elevated_pen",138
+2025-06-24,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",128
+2025-06-25,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",134
+2025-06-25,"Pneumonia","Kinetomax + Aliv","3","weaning",26
+2025-06-26,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",124
+2025-06-26,"Conjunctivitis","Terracortril Ointment","1","agrivoltaics",51
+2025-06-27,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",86
+2025-07-01,"Omphalitis","Terramycin","1",NA,138
+2025-07-04,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",124
+2025-07-04,"Pneumonia","Cef-50 + Aliv","2","agrivoltaics",128
+2025-07-06,"Diarrhea","Alta Lyte Fluids","1",NA,104
+2025-07-07,"Tick fever","Ganaseg + Terramycin","2","agrivoltaics",108
+2025-07-08,"Pneumonia","Kinetomax + Aliv","3",NA,84
+2025-07-08,"Tick fever","Ganaseg + Terramycin","3",NA,13
+2025-07-09,"Pneumonia","Kinetomax + Aliv","3",NA,52
+2025-07-11,"Tick fever","Ganaseg + Terramycin","3",NA,14
+2025-07-13,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",87
+2025-07-13,"Diarrhea","Acura Max + Fluids","1",NA,135
+2025-07-14,"Pneumonia","Kinetomax + Aliv","3","elevated_pen",145
+2025-07-14,"Pneumonia","Kinetomax + Aliv","3",NA,124
+2025-07-16,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",137
+2025-07-17,"Diarrhea","Farmacox + Acura Max","1",NA,133
+2025-07-27,"Tick fever","Ganaseg + Terramycin","2",NA,66
+2025-07-08,"Tick fever","Ganaseg + Terramycin","3",NA,12
+2025-07-16,"Pneumonia","Kinetomax + Aliv","3",NA,66
+2025-07-16,"Pneumonia","Kinetomax + Aliv","3",NA,77
+2025-07-17,"Tick fever","Ganaseg + Terramycin","2",NA,62
+2025-07-18,"Diarrhea","Alta Lyte Fluids","1",NA,133
+2025-07-22,"Diarrhea","Acura Max","1",NA,134
+2025-07-23,"Pneumonia","Kinetomax + Aliv","3",NA,124
+2025-07-23,"Pneumonia","Kinetomax + Aliv","3",NA,139
+2025-07-25,"Omphalitis","Terramycin","1","elevated_pen",152
+2025-07-25,"Omphalitis","Terramycin","1","elevated_pen",154
+2025-07-25,"Fever","D-500","1","elevated_pen",146
+2025-07-28,"Pneumonia","Kinetomax + Aliv","3","elevated_pen",146
+2025-08-01,"Tick fever","Ganaseg + Terramycin","3",NA,146
+2025-08-03,"Diarrhea","Alta Lyte Fluids","1",NA,141
+2025-08-03,"Diarrhea","Alta Lyte Fluids","1",NA,140
+2025-08-03,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",139
+2025-08-05,"Diarrhea","Acura Max","1",NA,140
+2025-08-05,"Diarrhea","Acura Max","1",NA,141
+2025-08-05,"Diarrhea","Acura Max","1",NA,133
+2025-08-14,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",144
+2025-08-18,"Diarrhea","Farmacox + Acura Max","1",NA,140
+2025-08-20,"Pneumonia","Kinetomax + Aliv","3",NA,124
+2025-08-03,"Tick fever","Ganaseg + Terramycin","3",NA,51
+2025-08-03,"Conjunctivitis","Terracortril + Terramycin","1",NA,62
+2025-08-20,"Conjunctivitis","Terracortril + Terramycin","1",NA,62
+2025-08-22,"Omphalitis","Pencivete","1",NA,90
+2025-08-29,"Diarrhea","Maxicam + Farmacox","1","agrivoltaics",150
+2025-08-31,"Pneumonia","Kinetomax + Aliv","3",NA,155
+2025-09-06,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",152
+2025-09-07,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",153
+2025-09-08,"Pneumonia","Kinetomax + Aliv","3","agrivoltaics",124
+2025-09-12,"Pneumonia","Kinetomax + Aliv","3","elevated_pen",171
+2025-09-16,"Omphalitis","Flunixin","1",NA,137
+2025-09-21,"Conjunctivitis","Maxibiotic","1",NA,145
+2025-09-21,"Pneumonia","Kinetomax + Aliv","3",NA,135
+2025-09-21,"Conjunctivitis","Maxibiotic","1",NA,124
+2025-09-24,"Pneumonia","Forcyl + Tolfedine","1",NA,124
+2025-09-26,"Diarrhea","Alta Lyte Fluids","1",NA,158
+2025-09-26,"Diarrhea","Alta Lyte Fluids","1",NA,156
+2025-09-27,"Diarrhea","Maxibiotic","1",NA,158
+2025-09-29,"Diarrhea","Alta Lyte Fluids","1",NA,159
+2025-09-29,"Diarrhea","Alta Lyte Fluids","1",NA,161
+2025-09-29,"Diarrhea","Alta Lyte Fluids","1",NA,165
+2025-09-15,"Pneumonia","Kinetomax + Aliv","3",NA,115
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,171
+2025-09-30,"Diarrhea","Maxibiotic + Farmacox","1",NA,161
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,160
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,156
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,163
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,165
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,164
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,169
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,167
+2025-09-30,"Diarrhea","Alta Lyte Fluids","1",NA,175
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,159
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,156
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,160
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,163
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,171
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,165
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,164
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,169
+2025-10-02,"Diarrhea","Farmacox + Pencivete","1",NA,175
+2025-10-07,"Diarrhea","Flanaliv","1",NA,160
+2025-10-07,"Pneumonia","Forcyl + Tolfedine","1",NA,146
+2025-10-09,"Diarrhea","Alta Lyte Fluids","1",NA,170
+2025-10-09,"Diarrhea","Alta Lyte Fluids","1",NA,167
+2025-10-12,"Conjunctivitis","Terracortril + Terramycin","1",NA,139
+2025-10-14,"Pneumonia","Forcyl + Tolfedine","1",NA,173
+2025-10-21,"Diarrhea","Alta Lyte Fluids","1",NA,176
+2025-10-18,"Pneumonia","Forcyl + Tolfedine","1",NA,182
+2025-10-31,"Pneumonia","Forcyl + Tolfedine","1",NA,175
+2025-10-31,"Conjunctivitis","Terracortril + Terramycin","1",NA,165
+2025-10-28,NA,"D-500 + Mercepiton","1",NA,133
+2025-11-02,NA,"Flanaliv","1",NA,192
+2025-11-09,"Omphalitis","Maxibiotic","1",NA,184
+2025-11-09,"Conjunctivitis","Maxibiotic","1",NA,174
+2025-11-11,"Pneumonia","Forcyl + Tolfedine","1",NA,189
+2025-11-11,"Conjunctivitis","Maxibiotic","1",NA,187
+2025-11-12,"Conjunctivitis","Maxibiotic","1",NA,164
+2025-11-12,"Pneumonia","Forcyl + Tolfedine","1",NA,183
+2025-11-17,"Conjunctivitis","Maxibiotic","1",NA,181
+2025-11-18,"Conjunctivitis","Maxibiotic","1",NA,193
+2025-11-24,"Diarrhea","Flanaliv + Farmacox","1",NA,185
+2025-11-28,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,207
+2025-11-30,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,190
+2025-11-30,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,185
+2025-11-30,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,186
+2025-12-02,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",196
+2025-12-02,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",187
+2025-12-02,"Diarrhea","Alta Lyte Fluids","1",NA,177
+2025-12-02,"Diarrhea","Alta Lyte Fluids","1",NA,170
+2025-12-02,"Diarrhea","Flanaliv + Alta Lyte Fluids","2",NA,186
+2025-12-05,"Conjunctivitis","Maxibiotic","1",NA,194
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,196
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",197
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,200
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,198
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,199
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,192
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,186
+2025-12-08,"Diarrhea","Alta Lyte Fluids","1",NA,184
+2025-12-09,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,187
+2025-12-09,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,196
+2025-12-09,"Diarrhea","Alta Lyte Fluids","1",NA,194
+2025-12-09,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,191
+2025-12-11,"Diarrhea","Flanaliv + Alta Lyte Fluids","1",NA,214
+2025-12-11,"Diarrhea","Flanaliv + Alta Lyte Fluids","1",NA,187
+2025-12-11,"Pneumonia","Kinetomax","1",NA,188
+2025-12-11,"Conjunctivitis","Maxibiotic + Terracortril","1",NA,191
+2025-12-11,"Pneumonia","Maxibiotic + Farmacox","1",NA,190
+2025-12-29,"Pneumonia","Forcyl + Tolfedine","1",NA,184
+2025-12-30,"Diarrhea","Flanaliv + Alta Lyte Fluids","1","agrivoltaics",203
+2025-12-30,"Diarrhea","Alta Lyte Fluids","1","elevated_pen",226
+2025-12-31,"Pneumonia","Forcyl + Tolfedine","1","elevated_pen",220
+2026-01-09,"Conjunctivitis","Maxibiotic + Terracortril","2",NA,218
+2026-01-10,"Diarrhea","Maxibiotic + Farmacox + D-500","1",NA,193
+2026-01-10,"Diarrhea","Farmacox + Terracortril","1",NA,188
+2026-01-10,"Diarrhea","Maxibiotic","1",NA,202
+2026-01-10,"Tick fever","Ganaseg + Maxibiotic + D-500","1",NA,217
+2026-01-12,"Diarrhea","Farmacox + D-500 + Fluids","1",NA,198
+2026-01-13,"Diarrhea","Maxibiotic + Farmacox","1",NA,179
+2026-01-13,"Pneumonia","Forcyl + Tolfedine","1","agrivoltaics",219
+2026-01-13,"Pneumonia","Forcyl + Tolfedine","1","agrivoltaics",177
+2026-01-13,"Diarrhea","Alta Lyte Fluids","1","agrivoltaics",141
+2026-01-13,"Conjunctivitis","Maxibiotic + Terracortril","3",NA,218
+2026-03-05,"Tick fever","Ganaseg + Maxibiotic",NA,NA,220
+2026-03-05,"Conjunctivitis","Terracortril + Terramycin",NA,"weaning",198
+2026-03-05,"Conjunctivitis","Terracortril + Terramycin",NA,"weaning",194
+2026-03-05,"Conjunctivitis","Terracortril + Terramycin",NA,"weaning",187
+2026-03-05,"Conjunctivitis","Terracortril + Terramycin",NA,"weaning",NA
+2026-03-06,"Conjunctivitis","Terracortril + Terramycin","4","weaning",NA
+2026-03-06,"Tick fever","Ganaseg + Maxibiotic",NA,NA,236
+2026-03-10,"Conjunctivitis","Terracortril + Terramycin","3",NA,223
+2026-03-10,"Conjunctivitis","Terracortril + Terramycin","3",NA,194
+2026-03-10,"Conjunctivitis","Terracortril + Terramycin","3",NA,190
+2026-03-10,"Conjunctivitis","Terracortril + Terramycin","3",NA,198
+2026-03-10,"Conjunctivitis","Terracortril + Terramycin","3",NA,NA
+2026-03-11,"Conjunctivitis","Terracortril + Terramycin","4",NA,190
+2026-03-11,"Conjunctivitis","Terracortril + Terramycin","5",NA,198
+2026-03-11,"Conjunctivitis","Terracortril + Terramycin","6",NA,199
+2026-03-11,"Diarrhea","Maxicam + Farmacox",NA,NA,244
+2026-03-11,"Hernia and Omphalitis","Cef-50 + D-500 + Maxicam",NA,NA,NA
+2026-03-12,"Colic","Prador + Vitamin B12",NA,NA,265
+2026-03-12,"White Diarrhea","Kinetomax",NA,NA,239
+2026-03-12,"White Diarrhea","Kinetomax",NA,NA,240
+2026-03-12,"White Diarrhea","Kinetomax",NA,NA,241
+2026-03-12,"Hernia and Omphalitis","Cef-50 + D-500 + Maxicam",NA,NA,NA
+2026-03-13,"Conjunctivitis","Terracortril + Terramycin",NA,NA,199
+2026-03-13,"Conjunctivitis","Terracortril + Terramycin",NA,NA,194
+2026-03-13,"Conjunctivitis","Terracortril + Terramycin",NA,NA,198
+2026-03-13,"Conjunctivitis","Terracortril + Terramycin",NA,NA,190
+2026-03-13,"Hernia and Omphalitis","Cef-50 + D-500 + Maxicam",NA,NA,NA
+2026-03-13,"Colic","Prador",NA,NA,249
+2026-03-13,"Diarrhea","Kinetomax",NA,NA,244
+2026-03-14,"Hernia and Omphalitis","Cef-50 + D-500 + Maxicam",NA,NA,NA
+2026-03-14,"Diarrhea","Cursotrat + Prador + Fluids",NA,NA,241
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,190
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,195
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,177
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,198
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,194
+2026-03-14,"Conjunctivitis","Terracortril + Terramycin",NA,NA,199
+2026-03-15,"Diarrhea","Cursotrat + Prador + Fluids",NA,NA,241
+2026-03-15,"Hernia and Omphalitis","Cef-50 + D-500 + Maxicam",NA,NA,NA
+2026-03-15,"Conjunctivitis","Terracortril + Terramycin",NA,NA,198
+2026-03-15,"Conjunctivitis","Terracortril + Terramycin",NA,NA,199
+2026-03-15,"Conjunctivitis","Terracortril + Terramycin",NA,NA,194
+2026-03-15,"Conjunctivitis","Terracortril + Terramycin",NA,NA,177
+2026-03-16,"Colic","Prador",NA,NA,282
+2026-03-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,177
+2026-03-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,199
+2026-03-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,198
+2026-03-18,"Colic","Prador",NA,NA,263
+2026-03-18,"Conjunctivitis","Terracortril + Terramycin",NA,NA,198
+2026-03-18,"Conjunctivitis","Terracortril + Terramycin",NA,NA,177
+2026-03-18,"Conjunctivitis","Terracortril + Terramycin",NA,NA,194
+2026-03-18,"Conjunctivitis","Terracortril + Terramycin",NA,NA,199
+2026-03-19,"Diarrhea","Cursotrat + Prador + Fluids",NA,NA,244
+2026-03-21,"Diarrhea","Pro-Bezerro + Febrax",NA,NA,244
+2026-03-21,"Omphalitis","Terramycin",NA,NA,273
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,187
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,194
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,223
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,205
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,203
+2026-03-23,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,194
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,187
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,223
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-24,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,205
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,194
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,223
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,187
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,205
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,203
+2026-03-25,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,273
+2026-03-26,"Diarrhea","Prolacter + Prador + Vitamin B12",NA,NA,295
+2026-03-26,"Diarrhea","Prolacter + Prador + Vitamin B12",NA,NA,296
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,194
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,223
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,187
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,205
+2026-03-26,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,203
+2026-03-27,"Colic","Prador + Vitamin B12",NA,NA,298
+2026-03-27,"Colic","Prador + Vitamin B12",NA,NA,288
+2026-03-28,"Diarrhea","Kinetomax",NA,NA,249
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,201
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,194
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,223
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,205
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,200
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-28,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,203
+2026-03-29,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,176
+2026-03-29,"Colic","Prador + Vitamin B12",NA,NA,265
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,208
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,200
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,203
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,177
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,199
+2026-03-31,"Conjunctivitis","Mastijet Forte + Terramycin",NA,NA,210
+2026-05-11,"Diarrhea","Borgal","1",NA,309
+2026-05-11,"Diarrhea","Borgal","1",NA,272
+2026-05-11,"Diarrhea","Borgal","1",NA,314
+2026-05-11,"Diarrhea","Borgal","1",NA,299
+2026-05-13,"Diarrhea","Terramycin",NA,NA,306
+2026-05-13,"Diarrhea","Terramycin",NA,NA,313
+2026-05-13,"Diarrhea","Terramycin",NA,NA,304
+2026-05-13,"Diarrhea","Terramycin",NA,NA,287
+2026-05-13,"Diarrhea and Conjunctivitis","Terracortril + Terramycin",NA,NA,307
+2026-05-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,289
+2026-05-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,259
+2026-05-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,307
+2026-05-16,"Conjunctivitis","Terracortril + Terramycin",NA,NA,273
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,298
+2026-05-19,"Diarrhea","Terramycin",NA,NA,308
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,300
+2026-05-19,"Colic","Aliv",NA,NA,302
+2026-05-19,"Diarrhea","Terramycin",NA,NA,287
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,306
+2026-05-19,"Diarrhea","Terramycin",NA,NA,271
+2026-05-19,"Diarrhea","Terramycin",NA,NA,272
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,273
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,227
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,222
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,220
+2026-05-19,"Conjunctivitis","Terracortril + Terramycin",NA,NA,224
