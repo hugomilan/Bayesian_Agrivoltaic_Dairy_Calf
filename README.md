@@ -16,4 +16,4 @@ This work is licensed with
 
 Feel free to use and share the data and code. Please, if you use it, cite our paper:
 
-Demeu FA, Oliveira AA, Bemvindo U, Salman AK, Santos JF, Maia ASC, Souza TAT, Milan HFM. Hierarchical Bayesian modeling of agrivoltaic dairy-calves under missing information. Arxiv, 2026. DOI
+Demeu FA, Oliveira AA, Bemvindo U, Salman AK, Santos JF, Maia ASC, Souza TAT, Milan HFM. Hierarchical Bayesian modeling of agrivoltaic dairy-calves under missing information. Arxiv, 2026. DOI https://doi.org/10.48550/arXiv.2610.28042
